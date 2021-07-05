@@ -34,7 +34,7 @@ namespace Curso_C_SHARP_UNAM_2021 {
                Cuaquier texto ... 
             */
 
-            /*----------------------------------TIPO DE DATOS --------------------------------------------*/
+            /*----------------------------------TIPO DE DATOS:INTRODUCCION--------------------------------------------*/
 
             //Algunas observaciones de este tipo de dato entero
 
