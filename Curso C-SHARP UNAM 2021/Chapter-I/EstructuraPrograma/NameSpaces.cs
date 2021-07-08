@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CURSO.Chapter_I.EstructuraPrograma {
+﻿namespace Curso_C_SHARP_UNAM_2021.Chapter_I.EstructuraPrograma {
     /* . . . */
 }
 
-namespace CURSO.Chapter_I.Other_Thema{
     /* . . . */
+namespace Curso_C_SHARP_UNAM_2021.Chapter_I.Other_Thema{
+
 }
 
 /*
