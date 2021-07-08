@@ -3,7 +3,7 @@
 /*--------------------------------ESTRUCTURA DE UN PROGRAMA C# -------------------------------------*/
 
 namespace Curso_C_SHARP_UNAM_2021 {
-    class Introduccion {
+    class Variables {
         static void Main(string[] args) {
 
             /*-----------------------------OPERACIONES MATEMATICAS ---------------------------------*/
@@ -46,6 +46,6 @@ namespace Curso_C_SHARP_UNAM_2021 {
                 int longNumber2 = 2147783;// correcto 
             //--> Si quieres trabajar solo con positivos al int se le aumenta antes la u
                 uint myNumberPositive  = 2147483;//correcto
-        }   
+        } 
     }
 }
