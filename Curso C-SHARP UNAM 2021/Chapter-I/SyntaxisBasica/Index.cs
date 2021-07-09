@@ -10,11 +10,12 @@ namespace Curso_C_SHARP_UNAM_2021.Chapter_I.SyntaxisBasica {
 
             //Variables.inicio();
             //Comentarios.inicio();
-            //Concatenacion.inicio();
             //ImprimirMensajes.inicio();
             //DeclaracionVariables.inicio();
             //Condicionales.inicio();
             //Iteradores.inicio();
+            //ParsingDatos.inicio();
+            Metodos.inicio();
          }
     }
 }
