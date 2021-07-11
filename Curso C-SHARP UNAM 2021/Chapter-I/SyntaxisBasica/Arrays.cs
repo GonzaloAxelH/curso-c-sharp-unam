@@ -9,7 +9,7 @@ namespace Curso_C_SHARP_UNAM_2021.Chapter_I.SyntaxisBasica {
             //declaración de matriz
             int[] evenNums;  // integer array
             string[] cities; // string array
-
+            
             //declaración e inicialización de matriz
             int[] evenNumss = new int[5] { 2, 4, 6, 8, 10 };
             string[] cities1 = new string[3] { "Mumbai", "London", "New York" };
