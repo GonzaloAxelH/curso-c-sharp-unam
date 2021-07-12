@@ -21,6 +21,9 @@ namespace Curso_C_SHARP_UNAM_2021.Chapter_I.SyntaxisBasica {
             //Ejemplo: sintaxis corta de la declaración de matriz
             int[] evenNums4 = { 2, 4, 6, 8, 10 };
             string[] cities4 = { "Mumbai", "London", "New York" };
+ 
+            //los arrays no te permiten agregar elementos en tiempo de ejcucion        
+            
         }
     }
 }
