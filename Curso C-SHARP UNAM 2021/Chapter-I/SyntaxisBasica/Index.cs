@@ -15,7 +15,8 @@ namespace Curso_C_SHARP_UNAM_2021.Chapter_I.SyntaxisBasica {
             //Condicionales.inicio();
             //Iteradores.inicio();
             //ParsingDatos.inicio();
-            Metodos.inicio();
+            //Metodos.inicio();
+            
          }
     }
 }
