@@ -16,7 +16,7 @@ namespace Curso_C_SHARP_UNAM_2021.Chapter_I.SyntaxisIntermedia {
             }
 
             double a = 98;
-            double b = 0;
+            double b = 98;
             double resutl;
             try {
                 resutl = divisionTwoNumbers(a, b);
