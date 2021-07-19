@@ -17,7 +17,8 @@ namespace Curso_C_SHARP_UNAM_2021.Chapter_I.SyntaxisBasica {
             //ParsingDatos.inicio();
             //Metodos.inicio();
             //SyntaxisIntermedia.Excepciones.inicio();
-            SyntaxisIntermedia.Properties.inicio();
+            //SyntaxisIntermedia.Properties.inicio();
+            SyntaxisIntermedia.Interfaces.inicio();
         }
     }
 }
