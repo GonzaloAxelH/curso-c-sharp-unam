@@ -6,7 +6,7 @@ using System.Text;
 namespace Curso_C_SHARP_UNAM_2021.Chapter_I.SyntaxisIntermedia {
     public class Properties {
         public static void inicio() {
-                
+            
             Persona2 estudiante = new Persona2();
             estudiante.FirstName=" Gonzalo ";
             //Console.WriteLine(estudiante.FirstName);
@@ -47,8 +47,6 @@ namespace Curso_C_SHARP_UNAM_2021.Chapter_I.SyntaxisIntermedia {
         public string LastName { get; private set;}
 
         public ICollection<Persona> points { get; } = new List<Persona>();
-
-
 
     }
 
